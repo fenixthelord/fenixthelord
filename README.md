@@ -21,7 +21,7 @@ My main focus is backend engineering with **PHP and Laravel**, with hands-on wor
 - 🌐 Deep specialty in **Arabic-first, RTL-native applications** — a thread running through nearly every project I build
 - 🛠️ Own full CI/CD lifecycle and infrastructure across **Docker, Linux VPS, and Cloudflare**
 - 🧑‍🏫 Mentor developers alongside client work
-- 🎓 Pursuing graduate studies at the Syrian Virtual University, aiming toward a **master's/PhD in cybersecurity** in Germany (Paderborn, TUM, RUB)
+- 🎓 Pursuing graduate studies at the Syrian Virtual University.
 - 🥖 Also run **Dream Baker's** — a bakery/restaurant business, and built its full POS system myself
 
 ---
